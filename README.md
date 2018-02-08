@@ -1,2 +1,2 @@
-# becarlos.github.io
+# carlosbensant.github.io
 Source code for Carlos Bensant (becarlos.com)
